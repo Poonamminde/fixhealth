@@ -1,5 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  color: white;
+  vertical-align: baseline;
+}
+
 .App {
   text-align: center;
+  background-color: black;
 }
 
 .App-logo {

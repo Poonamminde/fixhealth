@@ -1,0 +1,15 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem;
+}
+.nav-tab {
+  display: flex;
+  justify-content: space-around;
+  width: 30%;
+  font-size: 20px;
+  font-weight: 400;
+}
+.logo {
+  height: 2.5rem;
+}

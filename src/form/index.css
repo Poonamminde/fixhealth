@@ -1,0 +1,11 @@
+form {
+  height: 700px;
+  width: 300px;
+  background-color: grey;
+  margin: 2rem;
+  border-radius: 5px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
