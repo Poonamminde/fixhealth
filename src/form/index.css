@@ -4,8 +4,15 @@ form {
   background-color: grey;
   margin: 2rem;
   border-radius: 5px;
+  gap: 1px;
 }
 .container {
   display: flex;
   justify-content: center;
+}
+.form-name {
+  font-size: 35px;
+  font-weight: 500;
+  color: rgb(70, 29, 108);
+  margin: 5px;
 }

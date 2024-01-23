@@ -16,9 +16,7 @@ const Index = () => {
   return (
     <div class="container">
       <form>
-        <h1>
-          <strong>Booking Form</strong>
-        </h1>
+        <h1 class="form-name">Booking Form</h1>
         <TextField
           id="name"
           label="Name"

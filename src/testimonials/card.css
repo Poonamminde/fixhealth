@@ -1,0 +1,16 @@
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px;
+  width: 300px;
+  background-color: rgba(45, 38, 38, 0.36);
+}
+.card:hover {
+  background-color: rgb(93, 90, 90);
+}
+.name {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
